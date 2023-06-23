@@ -54,6 +54,10 @@
                                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem cupiditate omnis fugiat corporis laborum, aliquam est. Eaque earum ipsa quaerat quasi rerum hic fugiat doloremque sit tenetur! Dolorem, incidunt reiciendis?
                                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem cupiditate omnis fugiat corporis laborum, aliquam est. Eaque earum ipsa quaerat quasi rerum hic fugiat doloremque sit tenetur! Dolorem, incidunt reiciendis?
                                     Laravel has wonderful documentation covering every aspect of the framework. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.
+                                    Laravel has wonderful documentation covering every aspect of the framework. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.
+                                    Laravel has wonderful documentation covering every aspect of the framework. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.
+                                    Laravel has wonderful documentation covering every aspect of the framework. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.
+                                    Laravel has wonderful documentation covering every aspect of the framework. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.
                                 </p>
                             </div>
 
